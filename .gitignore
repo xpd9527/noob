@@ -1,0 +1,21 @@
+# OS / 编辑器
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Node
+node_modules/
+npm-debug.log*
+
+# 其他
+*.log
+*.tmp
